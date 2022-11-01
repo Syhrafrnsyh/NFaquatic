@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="black_shade_1">#0e2433</color>
+    <color name="black_shade_2">#1C4966</color>
+    <color name="black_shade_3">#22252D</color>
+    <color name="gray">#424242</color>
+    <color name="yellow">#ffa500</color>
+    <color name="dark_blue_shade">#0D2162</color>
+    <color name="dark_blue_shade_2">#17388E</color>
+    <color name="light_blue_shade">#12B2E6</color>
+
+    <color name="dark_grey_color">#444444</color>
+    <color name="deep_grey_color">#a3a3a3</color>
+
+    <color name="tab_color">#6A4100</color>
+    <color name="dialog_delete_yes_btn_txt_color">#3D3D3D</color>
+    <color name="dialog_delete_yes_btn_bg">#cecece</color>
+    <color name="statusBarColor">#211500</color>
+    <color name="colorPrimaryVariant">#5A5C5C</color>
+
+    <color name="colorPrimary">#01baef</color>
+    <color name="colorPrimaryDark">#01baef</color>
+    <color name="colorAccent">#01baef</color>
+
+    <color name="textColorPrimaryDark">#757575</color>
+    <color name="textColorSecondaryLight">#666666</color>
+
+    <color name="windowBackground">#eeeeee</color>
+
+    <color name="grey_5">#f2f2f2</color>
+    <color name="grey_60">#666666</color>
+    <color name="grey_10">#e6e6e6</color>
+    <color name="dark">#121931</color>
+    <color name="biru">#0099FF</color>
+
+    <color name="colorTextIcons">#FFFFFF</color>
+
+    <color name="abuabu">#808080</color>
+    <color name="orange">#FF9800</color>
+    <color name="menungu">#FF9800</color>
+    <color name="selesai">#4CAF50</color>
+    <color name="batal">#E91E1E</color>
+
+</resources>

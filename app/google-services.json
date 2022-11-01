@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "759737703026",
+    "project_id": "nfaquatic-24c94",
+    "storage_bucket": "nfaquatic-24c94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759737703026:android:24a3f262389fff514c40eb",
+        "android_client_info": {
+          "package_name": "com.example.nfaquatic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759737703026-5d0fjq83m56f7ocd4s7hdo7c18lv9vq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nfaquatic",
+            "certificate_hash": "9d7c00cb0b0168eed28c6600823bd1efad95c4c0"
+          }
+        },
+        {
+          "client_id": "759737703026-e3al516cchq32h5k1fro24gk1cr46lps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL580ktyU0yy65RRhbZaKsMVH1ahwI2ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759737703026-e3al516cchq32h5k1fro24gk1cr46lps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

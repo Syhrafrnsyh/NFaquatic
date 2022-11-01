@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NFaquatic.iml" filepath="$PROJECT_DIR$/.idea/modules/NFaquatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NFaquatic.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NFaquatic.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NFaquatic.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NFaquatic.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NFaquatic.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NFaquatic.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NFaquatic.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NFaquatic.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

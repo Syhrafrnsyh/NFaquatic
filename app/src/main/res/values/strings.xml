@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">NFaquatic</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_keranjang">Keranjang</string>
+    <string name="title_akun">Akun</string>
+
+    <string name="todo">TODO</string>
+
+    <string name="text_french" translatable="false">French</string>
+    <string name="text_english" translatable="false">English</string>
+    <string name="text_bangla" translatable="false">বাংলা</string>
+    <string name="text_spanish" translatable="false">Spanish</string>
+    <string name="text_hindi" translatable="false">हिन्दी</string>
+
+    <!--
+    <string name="admob_application_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+
+    <string name="admob_banner_ads_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="admob_interstitial_ads_id" translatable="false">"ca-app-pub-3940256099942544/1033173712"</string>
+    -->
+
+
+    <string name="APP_DATA" translatable="false">APP_DATA</string>
+    <string name="profile_path" translatable="false">profile_path</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="permission_camera_access_required">Camera access is required for sending image attachments, please enable it</string>
+    <string name="mandatory_permission_access_required">Camera access is required for sending image attachments, please enable it in settings</string>
+    <string name="permission_granted">Permission Granted</string>
+    <string name="permission_storage_access_required">Storage access is required for sending image attachments, please enable it</string>
+    <string name="storage_permission_access_required">Storage access is required for sending image attachments, please enable it in settings</string>
+
+
+    <string name="namaBarang">Nama Barang</string>
+    <string name="kodeBarang">Kode Barang</string>
+    <string name="kategoriBarang">Kategori Barang</string>
+    <string name="deskripsiBarang">Deskripsi Barang</string>
+    <string name="qtyBarang">Qty Barang</string>
+    <string name="hargaBarang">Harga Barang</string>
+    <string name="pilihBarang">Pilih Gambar Barang</string>
+    <string name="simpanBarang">Simpan Barang</string>
+    <string name="send_to">send to</string>
+    <string name="search_here">Search...</string>
+
+    <string name="pos">POS</string>
+    <string name="detail">Detail</string>
+    <string name="barang_category">Barang Category</string>
+    <string name="reset">Reset</string>
+    <string name="all_barang">All Barang</string>
+    <string name="no_barang_found">No Barang Found</string>
+    <string name="tambahkeranjang">Tambah Keranjang</string>
+    <string name="view_detail">Detail Barang</string>
+
+    <string name="default_notification_channel_id" translatable="false">NFaquatic</string>
+
+
+    <string name="selected_item">Selected item:</string>
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Python</item>
+        <item>Scala</item>
+        <item>Perl</item>
+    </string-array>
+
+    <string name="unknown">Unknown</string>
+    <string name="No.1">1</string>
+    <string name="No.2">2</string>
+    <string name="No.3">3</string>
+
+</resources>
